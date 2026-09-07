@@ -2,12 +2,6 @@
 
 
 
-| Requirement | Data Structure | Class |
-|---|---|---|
-| Patient Records | Binary Search Tree | `PatientBST.java` |
-| Emergency Patient Queue | Queue (FIFO) | `EmergencyQueue.java` |
-| Treatment History | Stack (LIFO) | `TreatmentStack.java` |
-| Patient Visit History | Singly Linked List | `VisitHistory.java` |
 
 ## Project Structure
 
